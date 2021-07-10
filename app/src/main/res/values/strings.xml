@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">treeDetection</string>
+    <string name="identify">remove tree background</string>
+    <string name="loaadingIdentify">辨識中 ...</string>
+</resources>
