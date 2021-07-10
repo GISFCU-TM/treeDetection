@@ -1,7 +1,7 @@
 # treeDetection
 treeDetection
 
-A project that can do remove background image for tree.
+A project that can do remove background image for the tree.
 
 Spcial thanks to GREAT TEAM! Chaquopy(https://chaquo.com/chaquopy/)
 
