@@ -9,4 +9,4 @@ The project is followed GNU GENERAL PUBLIC LICENSE Version 3
 and using Chaquopy(https://chaquo.com/chaquopy/) to complete this project
 thanks the great team!!
 
-![Sample]("Sample.png")
+![Sample](Sample.png)
